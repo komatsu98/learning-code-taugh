@@ -22,7 +22,7 @@ Tôi đã nghĩ rằng bạn bạn cực kỳ thông minh để trở thành 1 l
 
 Tôi bắt đầu nghiên cứu điều này nhiều hơn, và nhận ra rằng có rất nhiều lập trình viên tự học, và trông họ không có vẻ gì là được trời phú gì cả. Như tất cả các kĩ năng khác, ngoại lệ sẽ được sẽ được ban thưởng. Nhưng họ chính là những ngoại lệ. Những người tốt và giỏi  liên tục thực hiện đi thực hiện lại nó cho đến khi họ đủ giỏi để làm bất cứ gì họ muốn.
 
-Tôi bắt đầu nhìn vào 1 ví dụ. Là 1  "nhà luật hồi phục", tôi  nói rằng " bạn phải thực sự thông minh để là 1 nhà luật sư". Tôi không đồng ý với điều này. Nếu bạn suy nghĩ về nó, tôi chắc rằng bạn đã gặp những người thông minh và những người không thông minh trong mọi tầng lớp xã hội, và thật ngạc nhiên, là cả trong cùng tầng lớp xã hội với bạn nữa. Mặt khác, 1 vài người mà bạn nghĩ là phải thông minh  lại thực ra là 1 người rất là bình thường.
+Tôi bắt đầu nhìn vào 1 ví dụ. Là 1  "luật sư bào chữa", tôi  nói rằng " bạn phải thực sự thông minh để là 1 nhà luật sư". Tôi không đồng ý với điều này. Nếu bạn suy nghĩ về nó, tôi chắc rằng bạn đã gặp những người thông minh và những người không thông minh trong mọi tầng lớp xã hội, và thật ngạc nhiên, là cả trong cùng tầng lớp xã hội với bạn nữa. Mặt khác, 1 vài người mà bạn nghĩ là phải thông minh  lại thực ra là 1 người rất là bình thường.
 
  Những người đáng chú ý thường làm những việc không đáng chú ý và những người bình thường lại thường làm những thứ đáng chú ý hơn.
  
