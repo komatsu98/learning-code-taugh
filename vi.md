@@ -2,7 +2,7 @@
 
 Tôi phải thừa nhận điều này. Tôi yêu lập trình. Nhưng tôi không phải lúc nào cũng thế. Sự thực thì tôi chỉ là 1 kẻ sáo rỗng. T bắt đầu thích lập trình chỉ khi tôi bị vướng quá lâu đến nỗi mà  tôi bắt đầu hiểu rõ nó.
 
-Nói 1 cách rõ hơn, lập trình là việc duy nhất mà tôi tốn nhiều thời gian thất bại nhất trong những việc tôi làm. Code hỏng là bình thường, và sửa nó, tìm lỗi, và  xây dựng các phần hoạt động mượt đòi hỏi 1 sự kiên nhẫn, nghiên cứu , tập trung và kiên trì đáng kinh ngạc. Nhưng những bài học bạn học được sẽ đáng để tiếp tục.
+Nói 1 cách rõ hơn, lập trình là thứ duy nhất tôi từng làm mà phần lớn thời gian là "thất bại". Code hỏng là bình thường, và sửa nó, tìm lỗi, và  xây dựng các phần hoạt động mượt đòi hỏi 1 sự kiên nhẫn, nghiên cứu , tập trung và kiên trì đáng kinh ngạc. Nhưng những bài học bạn học được sẽ đáng để tiếp tục.
 
 Khi chúng ta già hơn, niềm tin sẽ tước bỏ những động lực của chúng ta. Thái độ và kỳ vọng của chúng ta bắt đầu đến giới hạn của nó, thường 1 cách vô thức. Thậm chí ngay cả khi tâm trí chúng ta chấp nhận khoa học thần kinh, thì những niềm tin trong tiềm thức của chúng ta cũng không chấp nhận những tri thức này. sự thật là,  chúng ta cũng không ý thức được những lý do ngang qua tâm trí của chúng ta, về việc tại sao chúng ta lại không tiếp nhận những kiến thức hay kí năng mới.
 
@@ -26,9 +26,9 @@ Tôi bắt đầu nhìn vào 1 ví dụ. Là 1  "luật sư bào chữa", tôi  
 
  Những người đáng chú ý thường làm những việc không đáng chú ý và những người bình thường lại thường làm những thứ đáng chú ý hơn.
  
-1 vài số liệu tốt nhất trong quá khứ của chúng tôi đã chỉ ra rằng  họ là những người bình thường có những quyết định và lựa chọn phi thường. 
+Một số nhân vật lớn nhất trong lịch sử của chúng ta cố khẳng định rằng họ là những người bình thường có những quyết định và lựa chọn phi thường. 
 
-Rõ ràng hơn, niềm tin của tôi có thể sai lầm. Có thể "người thông minh" là 1 khái niệm hạn hẹp, bởi vì nó dẫn đến việc  bạn được sinh ra với nó hay không.  Chịu ảnh hưởng của văn hóa,  có 1 niềm tin rằng trở nên thông minh là  1 biểu hiện bất biến, bẩm sinh, thiên phú và phổ cập. Nhưng thực ra, trở nên thông minh luôn luôn tương đối như kĩ năng, và nó sẽ tỉ lệ thuận. Bạn có thể cải thiện nó, khi đi đúng hướng, với 1 nố lực không ngừng nghỉ.
+Rõ ràng là những niềm tin của tôi đã sai. Có thể "người thông minh" là 1 khái niệm hạn hẹp, bởi vì nó dẫn đến việc bạn được sinh ra với nó hay không. Chịu ảnh hưởng của văn hóa, có 1 niềm tin rằng trở nên thông minh là 1 biểu hiện bất biến, bẩm sinh, thiên phú và phổ cập. Nhưng thực ra, trở nên thông minh luôn luôn tương đối như kĩ năng, và nó sẽ tỉ lệ thuận. Bạn có thể cải thiện nó, khi đi đúng hướng, với 1 nố lực không ngừng nghỉ.
 
 Vì vậy, tôi đã có 1 quan niệm sai lầm. Tôi đã nghỉ rằng bạn  cần  phải sở hữu trí thông minh tuyệt vời để trở thành 1 lập trình viên, như những người khác cho là tôi cần trí thông tinh tuyệt vời để đủ điều kiện trở thành 1 luật sư.
 
@@ -36,7 +36,7 @@ Bạn có thể tưởng tưởng sẽ thế nào nếu Henry Ford, Edisonm Jobs
 
 Không, không đáng để nghĩ về nó.
 
-Thay vào đó, hãy tập trung vào việc chúng ta đã tự hạn chế và loại bỏ chính mình  khỏi việc học qua những niềm tin và hi vọng sai lầm như thế nào. Bằng cách đó, chúng ta có thể tự sửa sai khi chúng ta hạn chế chính mình. Tốt hơn hết, chúng ta có thể chắc chắn rằng chúng ta không làm hư những đứa trẻ của chúng ta bằng nhưng niềm tin sai trái.
+Thay vào đó, h hãy cùng tập trung vào việc làm thế nào chúng ta vô hiệu hóa và thoát ra khỏi việc học thông qua một tổ hợp những niềm tin sai lầm, và mong đợi sai lầm. Bằng cách đó, chúng ta có thể tự sửa sai khi chúng ta hạn chế chính mình. Tốt hơn hết, chúng ta có thể chắc chắn rằng chúng ta không làm hư những đứa trẻ của chúng ta bằng nhưng niềm tin sai trái.
 
 ### Niềm tin sai lầm #1: Sự thông minh là bẩm sinh
 Không. Nó có thể rèn luyện để đạt được. Vì nó luôn luôn tương đối,  bạn có thể cải thiện nó như những người khác. Vì vậy hãy tiếp tục cố lên.
